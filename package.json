@@ -1,7 +1,7 @@
 {
   "name": "my_first_website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing a nodejs application, deploying it to Google cloud platform Engine.",
   "main": "index.js",
   "scripts": {
     "start": "node ."
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F4BI4NFF/nodetest_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/F4BI4NFF/nodetest_app/issues"
+  },
+  "homepage": "https://github.com/F4BI4NFF/nodetest_app#readme"
 }
